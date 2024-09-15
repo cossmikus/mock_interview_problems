@@ -9,7 +9,7 @@ You are given a 2D grid of size `m x n` initialized with the following three pos
 - **0**: A gate.
 - **INF**: Infinity, represented by the value `2147483647` (which is `2^31 - 1`). This denotes an empty room, and you can assume the distance to a gate is always less than this value.
 
-### Task:
+### Task
 For each empty room (INF), fill it with the distance to its nearest gate. If it is impossible to reach a gate, leave the value as `INF`.
 
 ### Example 1:
