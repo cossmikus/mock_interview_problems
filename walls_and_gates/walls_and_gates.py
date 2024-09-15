@@ -16,10 +16,9 @@ class Solution:
         If a room cannot reach any gate, it should remain as INF.
         """
         # write your code here
+        pass
         
         
-
-
 class TestWallsAndGates(unittest.TestCase):
     def setUp(self):
         self.solution = Solution()
